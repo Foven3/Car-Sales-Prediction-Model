@@ -39,4 +39,4 @@ with gr.Blocks() as demo:
     )
 
 # Launch app
-demo.launch(share=True)
+demo.launch()
